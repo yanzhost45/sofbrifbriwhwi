@@ -40,6 +40,14 @@
       "harga": "3500.00",
       "deskripsi": "bisa tanpa gandeng menggunkan pulsa / ewallet Rp 25.000",
       "status": "active"
+    },
+    {
+      "nama_produk": "Social Media 15 GB",
+      "produk_kode": "SOSM15G",
+      "total_amount": "0.00",
+      "harga": "1000.00",
+      "deskripsi": "Pastiin status nya failed code 422, baru dor xcp / xcp vip",
+      "status": "active"
     }
   ],
   "message": "Data produk berhasil diambil"
