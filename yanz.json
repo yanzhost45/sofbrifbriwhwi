@@ -54,17 +54,6 @@
       "harga_vip": "1000.00",
       "deskripsi": "bisa tanpa gandeng menggunkan pulsa / ewallet Rp 25.000",
       "status": "active"
-    },
-    {
-      "nama_produk": "Facebook 15 GB",
-      "kategori": "ADDON XCP/XCP VIP",
-      "produk_kode": "FAC15GB",
-      "total_amount": "0.00",
-      "harga_member": "1000.00",
-      "harga_reseller": "0.00",
-      "harga_vip": "0.00",
-      "deskripsi": "Pastiin status nya failed code 422, baru dor xcp / xcp vip",
-      "status": "active"
     }
   ],
   "message": "Data produk berhasil diambil"
