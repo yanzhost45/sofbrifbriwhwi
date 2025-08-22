@@ -1,7 +1,7 @@
 {
   "products": [
     {
-      "nama_produk": "MASA AKTIF 1 TAHUN",
+      "nama_produk": "MASA AKTIF 1 TAHUN - Rp7000",
       "kategori": "MASA AKTIF",
       "produk_kode": "MASTIF1",
       "total_amount": "0.00",
@@ -12,7 +12,7 @@
       "status": "active"
     },
     {
-      "nama_produk": "MASA AKTIF 1 TAHUN V2",
+      "nama_produk": "MASA AKTIF 1 TAHUN V2 - Rp7000",
       "kategori": "MASA AKTIF",
       "produk_kode": "MASTIF1V2",
       "total_amount": "0.00",
@@ -23,7 +23,7 @@
       "status": "active"
     },
     {
-      "nama_produk": "NAMBAH MASA AKTIF 1 BULAN",
+      "nama_produk": "NAMBAH MASA AKTIF 1 BULAN - Rp4000",
       "kategori": "MASA AKTIF",
       "produk_kode": "MAK1BB",
       "total_amount": "0.00",
@@ -34,7 +34,7 @@
       "status": "active"
     },
     {
-      "nama_produk": "IFLIX",
+      "nama_produk": "IFLIX - Rp3000",
       "kategori": "XTRA UNLIMITED TURBO",
       "produk_kode": "IFLIX0",
       "total_amount": "25000.00",
@@ -45,25 +45,190 @@
       "status": "active"
     },
     {
-      "nama_produk": "VIDIO",
+      "nama_produk": "VIDIO - Rp3000",
       "kategori": "XTRA UNLIMITED TURBO",
       "produk_kode": "VIDIO0",
       "total_amount": "25000.00",
-      "harga_member": "3500.00",
+      "harga_member": "3000.00",
       "harga_reseller": "1500.00",
       "harga_vip": "1000.00",
       "deskripsi": "bisa tanpa gandeng menggunkan pulsa / ewallet Rp 25.000",
       "status": "active"
     },
     {
-      "nama_produk": "Instagram 15 GB",
+      "nama_produk": "Facebook 15 GB - Rp0",
       "kategori": "ADDON XCP/XCP VIP",
-      "produk_kode": "INST15G",
+      "produk_kode": "FAC15GB",
       "total_amount": "0.00",
       "harga_member": "0.00",
       "harga_reseller": "0.00",
       "harga_vip": "0.00",
       "deskripsi": "Pastiin status nya failed code 422, baru dor xcp / xcp vip",
+      "status": "active"
+    },
+    {
+      "nama_produk": "FLEX S - Rp4000",
+      "kategori": "XTRA COMBO FLEX",
+      "produk_kode": "NLKSIP",
+      "total_amount": "16000.00",
+      "harga_member": "4000.00",
+      "harga_reseller": "1500.00",
+      "harga_vip": "500.00",
+      "deskripsi": "Deskripsi Paket:\n- Xtra Combo Flex S disc/versi murah.\n- Sediakan saldo E-Wallet Dana Rp16.000 (akan terpotong segini)\n- Jangan ada Paket Flex lainnya yang aktif.\n- Di sebagian kasus tidak dapat digandeng dengan Paket Akrab, jadi pastikan kalau mau lebih aman jangan ada paket akrabnya.\n- Terdapat fee/biaya Admin pembelian paket (tertera).\n- Bisa dipakai untuk Claim Addon/Bonus Xtra Combo Flex.",
+      "status": "active"
+    },
+    {
+      "nama_produk": "Kuota Malam 16 Gb - Rp3000",
+      "kategori": "XTRA COMBO FLEX",
+      "produk_kode": "MLFLEX16",
+      "total_amount": "1000.00",
+      "harga_member": "3000.00",
+      "harga_reseller": "1500.00",
+      "harga_vip": "1000.00",
+      "deskripsi": "KUOTA MALAM 16 GB, HARUS ADA XTRA COMBO FLEX, menggunakan ewallet Rp 500",
+      "status": "active"
+    },
+    {
+      "nama_produk": "Kuota Utama 6 Gb - Rp3000",
+      "kategori": "XTRA COMBO FLEX",
+      "produk_kode": "UTFLEX6",
+      "total_amount": "500.00",
+      "harga_member": "3000.00",
+      "harga_reseller": "1000.00",
+      "harga_vip": "500.00",
+      "deskripsi": "KUOTA UTAMA 6 GB, HARUS ADA XTRA COMBO FLEX, menggunakan ewallet Rp 500",
+      "status": "active"
+    },
+    {
+      "nama_produk": "Kuota Utama 7 Gb - Rp3000",
+      "kategori": "XTRA COMBO FLEX",
+      "produk_kode": "UFLEX7",
+      "total_amount": "500.00",
+      "harga_member": "3000.00",
+      "harga_reseller": "1500.00",
+      "harga_vip": "1000.00",
+      "deskripsi": "KUOTA UTAMA 7 GB, HARUS ADA XTRA COMBO FLEX, menggunakan ewaller Rp 500",
+      "status": "active"
+    },
+    {
+      "nama_produk": "Tiktok 11 Gb - Rp3000",
+      "kategori": "XTRA COMBO FLEX",
+      "produk_kode": "TIFLEX11",
+      "total_amount": "500.00",
+      "harga_member": "3000.00",
+      "harga_reseller": "1500.00",
+      "harga_vip": "1000.00",
+      "deskripsi": "TIKTOK 11 GB, HARUS ADA XTRA COMBO FLEX, menggunakan ewallet Rp 500",
+      "status": "active"
+    },
+    {
+      "nama_produk": "Tiktok 9 Gb - Rp3000",
+      "kategori": "XTRA COMBO FLEX",
+      "produk_kode": "TIKFLEX9",
+      "total_amount": "500.00",
+      "harga_member": "3000.00",
+      "harga_reseller": "1000.00",
+      "harga_vip": "500.00",
+      "deskripsi": "TIKTOK 9 GB, HARUS ADA XTRA COMBO FLEX, menggunakan ewallet Rp 500",
+      "status": "active"
+    },
+    {
+      "nama_produk": "UTAMA 6 GB + TIKTOK 9 GB - Rp5000",
+      "kategori": "XTRA COMBO FLEX",
+      "produk_kode": "UT6TT9",
+      "total_amount": "500.00",
+      "harga_member": "5000.00",
+      "harga_reseller": "2000.00",
+      "harga_vip": "1000.00",
+      "deskripsi": "UTAMA 6 GB + TIKTOK 9 GB, HARUS ADA XTRA COMBO FLEX, MENGGUNAKAN EWALLET RP 500",
+      "status": "active"
+    },
+    {
+      "nama_produk": "UTAMA 6 GB + YOUTUBE 9 GB - Rp5000",
+      "kategori": "XTRA COMBO FLEX",
+      "produk_kode": "UT6YT9",
+      "total_amount": "500.00",
+      "harga_member": "5000.00",
+      "harga_reseller": "2000.00",
+      "harga_vip": "1000.00",
+      "deskripsi": "UTAMA 6 GB + YOUTUBE 9 GB, HARUS ADA XTRA COMBO FLEX, MENGGUNAKAN EWALLET RP 500",
+      "status": "active"
+    },
+    {
+      "nama_produk": "UTAMA 7 + YOUTUBE 11 GB - Rp7000",
+      "kategori": "XTRA COMBO FLEX",
+      "produk_kode": "UT7YT11",
+      "total_amount": "500.00",
+      "harga_member": "6000.00",
+      "harga_reseller": "3000.00",
+      "harga_vip": "2000.00",
+      "deskripsi": "UTAMA 7 GB + YOUTUBE 11 GB, HARUS ADA XTRA COMBO FLEX, MENGGUNKAN EWALLET RP 500",
+      "status": "active"
+    },
+    {
+      "nama_produk": "UTAMA 7 GB + MALAM 16 GB",
+      "kategori": "XTRA COMBO FLEX",
+      "produk_kode": "UT7ML16",
+      "total_amount": "500.00",
+      "harga_member": "5000.00",
+      "harga_reseller": "3000.00",
+      "harga_vip": "2000.00",
+      "deskripsi": "KUOTA UTAMA 7 GB + KUOTA MALAM 16 GB, HARUS ADA XTRA COMBO FLEX, MENGGUNAKAN EWALLET RP 500",
+      "status": "active"
+    },
+    {
+      "nama_produk": "UTAMA 7 GB + TIKTOK 11 GB",
+      "kategori": "XTRA COMBO FLEX",
+      "produk_kode": "UT7TT11",
+      "total_amount": "500.00",
+      "harga_member": "5000.00",
+      "harga_reseller": "3000.00",
+      "harga_vip": "2000.00",
+      "deskripsi": "KUOTA UTAMA 7 GB + TIKTOK 11 GB, HARUS ADA XTRA COMBO FLEX, MENGGUNAKAN EWALLET RP 500",
+      "status": "active"
+    },
+    {
+      "nama_produk": "Youtube 11 Gb",
+      "kategori": "XTRA COMBO FLEX",
+      "produk_kode": "YUFLEX11",
+      "total_amount": "500.00",
+      "harga_member": "2500.00",
+      "harga_reseller": "1500.00",
+      "harga_vip": "1000.00",
+      "deskripsi": "YOUTUBE 11 GB, HARUS ADA XTRA COMBO FLEX, menggunakan pulsa / ewallet Rp 500",
+      "status": "active"
+    },
+    {
+      "nama_produk": "YOUTUBE 11 GB + TIKTOK 11 GB",
+      "kategori": "XTRA COMBO FLEX",
+      "produk_kode": "YT11TT11",
+      "total_amount": "500.00",
+      "harga_member": "5000.00",
+      "harga_reseller": "3000.00",
+      "harga_vip": "2000.00",
+      "deskripsi": "YOUTUBE 11 GB + TIKTOK 11 GB, HARUS ADA XTRA COMBO FLEX, MENGGUNAKAN EWALLER RP 500",
+      "status": "active"
+    },
+    {
+      "nama_produk": "Youtube 9 Gb",
+      "kategori": "XTRA COMBO FLEX",
+      "produk_kode": "YUFLEX9",
+      "total_amount": "500.00",
+      "harga_member": "2000.00",
+      "harga_reseller": "1000.00",
+      "harga_vip": "500.00",
+      "deskripsi": "YOUTUBE 9 GB, HARUS ADA XTRA COMBO FLEX, menggunakan ewallet Rp 500",
+      "status": "active"
+    },
+    {
+      "nama_produk": "YOUTUBE 9 GB + TIKTOK 9 GB",
+      "kategori": "XTRA COMBO FLEX",
+      "produk_kode": "YT9TT9",
+      "total_amount": "500.00",
+      "harga_member": "4000.00",
+      "harga_reseller": "2000.00",
+      "harga_vip": "1000.00",
+      "deskripsi": "YOUTUBE 9 GB + TIKTOK 9 GB, HARUS ADA XTRA COMBO FLEX, MENGGUNAKAN EWALLET RP 500",
       "status": "active"
     }
   ],
