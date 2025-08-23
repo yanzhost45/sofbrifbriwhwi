@@ -232,6 +232,28 @@
       "status": "active"
     },
     {
+    "nama_produk": "XTRA COMBO PLUS 10 GB 💥",
+    "kategori": "Xtra Combo Plus 🔥",
+    "produk_kode": "YOUYOI",
+    "total_amount": "63400",
+    "harga_member": "5000",
+    "harga_reseller": "2000",
+    "harga_vip": "1500",
+    "deskripsi": "Xtra Combo Plus 10GB (Unlimited Apps Produktivitas). Bisa untuk Inject SSH/VPN. Paket mengikuti masa aktif paket Xtra Combo Plus / Xtra Combo VIP Plus. Tidak ada FUP Kuota Harian Aplikasi Produktivitas. Pastikan tidak ada paket Xtra Combo Plus yang aktif. Sediakan saldo E-wallet DANA / Pulsa Rp. 64.000.",
+    "status": "active"
+  },
+  {
+    "nama_produk": "XTRA COMBO PLUS 5 GB ⚡",
+    "kategori": "Xtra Combo Plus 🔥",
+    "produk_kode": "KIWKIW",
+    "total_amount": "30000",
+    "harga_member": "5000",
+    "harga_reseller": "2000",
+    "harga_vip": "1500",
+    "deskripsi": "Pastikan tidak ada paket Xtra Combo Plus yang aktif. Cocok untuk syarat sikat bonus Addon Xtra Combo Plus. Sediakan pulsa Rp. 30.000.",
+    "status": "active"
+  },
+    {
     "nama_produk": "FACEBOOK 15 GB 📱",
     "kategori": "Addon Xtra Combo Plus 📦",
     "produk_kode": "SUISOU",
@@ -273,28 +295,6 @@
     "harga_reseller": "1000",
     "harga_vip": "500",
     "deskripsi": "Bonus Kuota 15GB WhatsApp untuk Xtra Combo Plus / Xtra Combo VIP Plus. Cocok untuk Mix Paket XCP / XCVIP Plus. Paket mengikuti masa aktif Xtra Combo Plus / Xtra Combo VIP Plus. Tidak dapat diakumulasi, kuota akan ter-reset ke 10GB jika dibeli ulang. Sediakan saldo E-wallet DANA / Pulsa minimal Rp. 5.000.",
-    "status": "active"
-  },
-  {
-    "nama_produk": "XTRA COMBO PLUS 10 GB 💥",
-    "kategori": "Xtra Combo Plus 🔥",
-    "produk_kode": "YOUYOI",
-    "total_amount": "63400",
-    "harga_member": "5000",
-    "harga_reseller": "2000",
-    "harga_vip": "1500",
-    "deskripsi": "Xtra Combo Plus 10GB (Unlimited Apps Produktivitas). Bisa untuk Inject SSH/VPN. Paket mengikuti masa aktif paket Xtra Combo Plus / Xtra Combo VIP Plus. Tidak ada FUP Kuota Harian Aplikasi Produktivitas. Pastikan tidak ada paket Xtra Combo Plus yang aktif. Sediakan saldo E-wallet DANA / Pulsa Rp. 64.000.",
-    "status": "active"
-  },
-  {
-    "nama_produk": "XTRA COMBO PLUS 5 GB ⚡",
-    "kategori": "Xtra Combo Plus 🔥",
-    "produk_kode": "KIWKIW",
-    "total_amount": "30000",
-    "harga_member": "5000",
-    "harga_reseller": "2000",
-    "harga_vip": "1500",
-    "deskripsi": "Pastikan tidak ada paket Xtra Combo Plus yang aktif. Cocok untuk syarat sikat bonus Addon Xtra Combo Plus. Sediakan pulsa Rp. 30.000.",
     "status": "active"
   },
   {
