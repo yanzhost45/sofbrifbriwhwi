@@ -79,7 +79,7 @@
     },
     {
       "nama_produk": "Kuota Malam 16 Gb 📦",
-      "kategori": "Xtra Combo Flex 📦",
+      "kategori": "Addon Xtra Combo Flex 📦",
       "produk_kode": "MLFLEX16",
       "total_amount": "1000",
       "harga_member": "2500",
@@ -90,7 +90,7 @@
     },
     {
       "nama_produk": "Kuota Utama 6 Gb 📦",
-      "kategori": "Xtra Combo Flex 📦",
+      "kategori": "Addon Xtra Combo Flex 📦",
       "produk_kode": "UTFLEX6",
       "total_amount": "500",
       "harga_member": "2000",
@@ -101,7 +101,7 @@
     },
     {
       "nama_produk": "Kuota Utama 7 Gb 📦",
-      "kategori": "Xtra Combo Flex 📦",
+      "kategori": "Addon Xtra Combo Flex 📦",
       "produk_kode": "UFLEX7",
       "total_amount": "500",
       "harga_member": "2500",
@@ -112,7 +112,7 @@
     },
     {
       "nama_produk": "Tiktok 11 Gb 📦",
-      "kategori": "Xtra Combo Flex 📦",
+      "kategori": "Addon Xtra Combo Flex 📦",
       "produk_kode": "TIFLEX11",
       "total_amount": "500",
       "harga_member": "2500",
@@ -123,7 +123,7 @@
     },
     {
       "nama_produk": "Tiktok 9 Gb 📦",
-      "kategori": "Xtra Combo Flex 📦",
+      "kategori": "Addon Xtra Combo Flex 📦",
       "produk_kode": "TIKFLEX9",
       "total_amount": "500",
       "harga_member": "2000",
@@ -134,7 +134,7 @@
     },
     {
       "nama_produk": "Utama 6 Gb + Tiktok 9 Gb 📦",
-      "kategori": "Xtra Combo Flex 📦",
+      "kategori": "Addon Xtra Combo Flex 📦",
       "produk_kode": "UT6TT9",
       "total_amount": "500",
       "harga_member": "4000",
@@ -145,7 +145,7 @@
     },
     {
       "nama_produk": "Utama 6 Gb + Youtube 9 Gb 📦",
-      "kategori": "Xtra Combo Flex 📦",
+      "kategori": "Addon Xtra Combo Flex 📦",
       "produk_kode": "UT6YT9",
       "total_amount": "500",
       "harga_member": "4000",
@@ -156,7 +156,7 @@
     },
     {
       "nama_produk": "Utama 7 Gb + Youtube 11 Gb 📦",
-      "kategori": "Xtra Combo Flex 📦",
+      "kategori": "Addon Xtra Combo Flex 📦",
       "produk_kode": "UT7YT11",
       "total_amount": "500",
       "harga_member": "5000",
@@ -167,7 +167,7 @@
     },
     {
       "nama_produk": "Utama 7 Gb + Malam 16 Gb 📦",
-      "kategori": "Xtra Combo Flex 📦",
+      "kategori": "Addon Xtra Combo Flex 📦",
       "produk_kode": "UT7ML16",
       "total_amount": "500",
       "harga_member": "5000",
@@ -178,7 +178,7 @@
     },
     {
       "nama_produk": "Utama 7 Gb + Tiktok 11 Gb 📦",
-      "kategori": "Xtra Combo Flex 📦",
+      "kategori": "Addon Xtra Combo Flex 📦",
       "produk_kode": "UT7TT11",
       "total_amount": "500",
       "harga_member": "5000",
@@ -189,7 +189,7 @@
     },
     {
       "nama_produk": "Youtube 11 Gb 📦",
-      "kategori": "Xtra Combo Flex 📦",
+      "kategori": "Addon Xtra Combo Flex 📦",
       "produk_kode": "YUFLEX11",
       "total_amount": "500",
       "harga_member": "2500",
@@ -200,7 +200,7 @@
     },
     {
       "nama_produk": "Youtube 11 Gb + Tiktok 11 Gb 📦",
-      "kategori": "Xtra Combo Flex 📦",
+      "kategori": "Addon Xtra Combo Flex 📦",
       "produk_kode": "YT11TT11",
       "total_amount": "500",
       "harga_member": "5000",
@@ -211,7 +211,7 @@
     },
     {
       "nama_produk": "Youtube 9 Gb 📦",
-      "kategori": "Xtra Combo Flex 📦",
+      "kategori": "Addon Xtra Combo Flex 📦",
       "produk_kode": "YUFLEX9",
       "total_amount": "500",
       "harga_member": "2000",
@@ -222,7 +222,7 @@
     },
     {
       "nama_produk": "Youtube 9 Gb + Tiktok 9 Gb 📦",
-      "kategori": "Xtra Combo Flex 📦",
+      "kategori": "Addon Xtra Combo Flex 📦",
       "produk_kode": "YT9TT9",
       "total_amount": "500",
       "harga_member": "4000",
@@ -233,7 +233,7 @@
     },
     {
     "nama_produk": "FACEBOOK 15 GB 📱",
-    "kategori": "Xtra Combo Plus 🔥",
+    "kategori": "Addon Xtra Combo Plus 📦",
     "produk_kode": "SUISOU",
     "total_amount": "5000",
     "harga_member": "2000",
@@ -244,7 +244,7 @@
   },
   {
     "nama_produk": "INSTAGRAM 15 GB 📸",
-    "kategori": "Xtra Combo Plus 🔥",
+    "kategori": "Addon Xtra Combo Plus 📦",
     "produk_kode": "PHKLPK",
     "total_amount": "5000",
     "harga_member": "2000",
@@ -255,7 +255,7 @@
   },
   {
     "nama_produk": "TIKTOK 15 GB 🎵",
-    "kategori": "Xtra Combo Plus 🔥",
+    "kategori": "Addon Xtra Combo Plus 📦",
     "produk_kode": "HOKKRI",
     "total_amount": "5000",
     "harga_member": "2000",
@@ -266,7 +266,7 @@
   },
   {
     "nama_produk": "WHATSAPP 15 GB 💬",
-    "kategori": "Xtra Combo Plus 🔥",
+    "kategori": "Addon Xtra Combo Plus 📦",
     "produk_kode": "PSPSKK",
     "total_amount": "5000",
     "harga_member": "2000",
@@ -299,7 +299,7 @@
   },
   {
     "nama_produk": "YOUTUBE 15 GB 🎥",
-    "kategori": "Xtra Combo Plus 🔥",
+    "kategori": "Addon Xtra Combo Plus 📦",
     "produk_kode": "SDKLPL",
     "total_amount": "5000",
     "harga_member": "2000",
