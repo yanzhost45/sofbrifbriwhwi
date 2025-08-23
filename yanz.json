@@ -1,8 +1,8 @@
 {
   "products": [
     {
-      "nama_produk": "MASA AKTIF 1 TAHUN",
-      "kategori": "📅 Masa Aktif",
+      "nama_produk": "Masa Aktif 1 Tahun 📅",
+      "kategori": "Masa Aktif 📅",
       "produk_kode": "MASTIF1",
       "total_amount": "0",
       "harga_member": "6000",
@@ -12,30 +12,30 @@
       "status": "active"
     },
     {
-      "nama_produk": "MASA AKTIF 1 TAHUN V2",
-      "kategori": "📅 Masa Aktif",
+      "nama_produk": "Masa Aktif 1 Tahun V2 📅",
+      "kategori": "Masa Aktif 📅",
       "produk_kode": "MASTIF1V2",
       "total_amount": "0",
       "harga_member": "6000",
       "harga_reseller": "3500",
       "harga_vip": "2000",
-      "deskripsi": "MASA AKTIF 1 TAHUN",
+      "deskripsi": "Masa aktif 1 tahun",
       "status": "active"
     },
     {
-      "nama_produk": "NAMBAH MASA AKTIF 1 BULAN",
-      "kategori": "📅 Masa Aktif",
+      "nama_produk": "Nambah Masa Aktif 1 Bulan 📅",
+      "kategori": "Masa Aktif 📅",
       "produk_kode": "MAK1BB",
       "total_amount": "0",
       "harga_member": "3000",
       "harga_reseller": "2000",
       "harga_vip": "1500",
-      "deskripsi": "MENAMBAH MASA AKTIF 1 BULAN, Tanpa pulsa / ewallet",
+      "deskripsi": "Menambah masa aktif 1 bulan, tanpa pulsa / ewallet",
       "status": "active"
     },
     {
-      "nama_produk": "IFLIX",
-      "kategori": "📺 XUT Vidio & Iflix",
+      "nama_produk": "Iflix 📺",
+      "kategori": "Xut Vidio & Iflix 📺",
       "produk_kode": "IFLIX0",
       "total_amount": "25000",
       "harga_member": "2000",
@@ -45,19 +45,19 @@
       "status": "active"
     },
     {
-      "nama_produk": "VIDIO",
-      "kategori": "📺 XUT Vidio & Iflix",
+      "nama_produk": "Vidio 📺",
+      "kategori": "Xut Vidio & Iflix 📺",
       "produk_kode": "VIDIO0",
       "total_amount": "25000",
       "harga_member": "2500",
       "harga_reseller": "1500",
       "harga_vip": "1000",
-      "deskripsi": "bisa tanpa gandeng menggunkan pulsa / ewallet Rp 250",
+      "deskripsi": "Bisa tanpa gandeng menggunakan pulsa / ewallet Rp 250",
       "status": "active"
     },
     {
-      "nama_produk": "Facebook 15 GB",
-      "kategori": "⚡ Addon XCP/XCP VIP",
+      "nama_produk": "Facebook 15 GB ⚡",
+      "kategori": "Addon XCP/XCP VIP ⚡",
       "produk_kode": "FAC15GB",
       "total_amount": "0",
       "harga_member": "0",
@@ -67,8 +67,8 @@
       "status": "active"
     },
     {
-      "nama_produk": "FLEX S",
-      "kategori": "📦 Xtra Combo Flex",
+      "nama_produk": "Flex S 📦",
+      "kategori": "Xtra Combo Flex 📦",
       "produk_kode": "NLKSIP",
       "total_amount": "16000",
       "harga_member": "3000",
@@ -78,8 +78,8 @@
       "status": "active"
     },
     {
-      "nama_produk": "Kuota Malam 16 Gb",
-      "kategori": "📦 Xtra Combo Flex",
+      "nama_produk": "Kuota Malam 16 Gb 📦",
+      "kategori": "Xtra Combo Flex 📦",
       "produk_kode": "MLFLEX16",
       "total_amount": "1000",
       "harga_member": "2500",
@@ -89,8 +89,8 @@
       "status": "active"
     },
     {
-      "nama_produk": "Kuota Utama 6 Gb",
-      "kategori": "📦 Xtra Combo Flex",
+      "nama_produk": "Kuota Utama 6 Gb 📦",
+      "kategori": "Xtra Combo Flex 📦",
       "produk_kode": "UTFLEX6",
       "total_amount": "500",
       "harga_member": "2000",
@@ -100,8 +100,8 @@
       "status": "active"
     },
     {
-      "nama_produk": "Kuota Utama 7 Gb",
-      "kategori": "📦 Xtra Combo Flex",
+      "nama_produk": "Kuota Utama 7 Gb 📦",
+      "kategori": "Xtra Combo Flex 📦",
       "produk_kode": "UFLEX7",
       "total_amount": "500",
       "harga_member": "2500",
@@ -111,8 +111,8 @@
       "status": "active"
     },
     {
-      "nama_produk": "Tiktok 11 Gb",
-      "kategori": "📦 Xtra Combo Flex",
+      "nama_produk": "Tiktok 11 Gb 📦",
+      "kategori": "Xtra Combo Flex 📦",
       "produk_kode": "TIFLEX11",
       "total_amount": "500",
       "harga_member": "2500",
@@ -122,8 +122,8 @@
       "status": "active"
     },
     {
-      "nama_produk": "Tiktok 9 Gb",
-      "kategori": "📦 Xtra Combo Flex",
+      "nama_produk": "Tiktok 9 Gb 📦",
+      "kategori": "Xtra Combo Flex 📦",
       "produk_kode": "TIKFLEX9",
       "total_amount": "500",
       "harga_member": "2000",
@@ -133,8 +133,8 @@
       "status": "active"
     },
     {
-      "nama_produk": "UTAMA 6 GB + TIKTOK 9 GB",
-      "kategori": "📦 Xtra Combo Flex",
+      "nama_produk": "Utama 6 Gb + Tiktok 9 Gb 📦",
+      "kategori": "Xtra Combo Flex 📦",
       "produk_kode": "UT6TT9",
       "total_amount": "500",
       "harga_member": "4000",
@@ -144,8 +144,8 @@
       "status": "active"
     },
     {
-      "nama_produk": "UTAMA 6 GB + YOUTUBE 9 GB",
-      "kategori": "📦 Xtra Combo Flex",
+      "nama_produk": "Utama 6 Gb + Youtube 9 Gb 📦",
+      "kategori": "Xtra Combo Flex 📦",
       "produk_kode": "UT6YT9",
       "total_amount": "500",
       "harga_member": "4000",
@@ -155,8 +155,8 @@
       "status": "active"
     },
     {
-      "nama_produk": "UTAMA 7 + YOUTUBE 11 GB",
-      "kategori": "📦 Xtra Combo Flex",
+      "nama_produk": "Utama 7 Gb + Youtube 11 Gb 📦",
+      "kategori": "Xtra Combo Flex 📦",
       "produk_kode": "UT7YT11",
       "total_amount": "500",
       "harga_member": "5000",
@@ -166,8 +166,8 @@
       "status": "active"
     },
     {
-      "nama_produk": "UTAMA 7 GB + MALAM 16 GB",
-      "kategori": "📦 Xtra Combo Flex",
+      "nama_produk": "Utama 7 Gb + Malam 16 Gb 📦",
+      "kategori": "Xtra Combo Flex 📦",
       "produk_kode": "UT7ML16",
       "total_amount": "500",
       "harga_member": "5000",
@@ -177,8 +177,8 @@
       "status": "active"
     },
     {
-      "nama_produk": "UTAMA 7 GB + TIKTOK 11 GB",
-      "kategori": "📦 Xtra Combo Flex",
+      "nama_produk": "Utama 7 Gb + Tiktok 11 Gb 📦",
+      "kategori": "Xtra Combo Flex 📦",
       "produk_kode": "UT7TT11",
       "total_amount": "500",
       "harga_member": "5000",
@@ -188,8 +188,8 @@
       "status": "active"
     },
     {
-      "nama_produk": "Youtube 11 Gb",
-      "kategori": "📦 Xtra Combo Flex",
+      "nama_produk": "Youtube 11 Gb 📦",
+      "kategori": "Xtra Combo Flex 📦",
       "produk_kode": "YUFLEX11",
       "total_amount": "500",
       "harga_member": "2500",
@@ -199,8 +199,8 @@
       "status": "active"
     },
     {
-      "nama_produk": "YOUTUBE 11 GB + TIKTOK 11 GB",
-      "kategori": "📦 Xtra Combo Flex",
+      "nama_produk": "Youtube 11 Gb + Tiktok 11 Gb 📦",
+      "kategori": "Xtra Combo Flex 📦",
       "produk_kode": "YT11TT11",
       "total_amount": "500",
       "harga_member": "5000",
@@ -210,8 +210,8 @@
       "status": "active"
     },
     {
-      "nama_produk": "Youtube 9 Gb",
-      "kategori": "📦 Xtra Combo Flex",
+      "nama_produk": "Youtube 9 Gb 📦",
+      "kategori": "Xtra Combo Flex 📦",
       "produk_kode": "YUFLEX9",
       "total_amount": "500",
       "harga_member": "2000",
@@ -221,8 +221,8 @@
       "status": "active"
     },
     {
-      "nama_produk": "YOUTUBE 9 GB + TIKTOK 9 GB",
-      "kategori": "📦 Xtra Combo Flex",
+      "nama_produk": "Youtube 9 Gb + Tiktok 9 Gb 📦",
+      "kategori": "Xtra Combo Flex 📦",
       "produk_kode": "YT9TT9",
       "total_amount": "500",
       "harga_member": "4000",
